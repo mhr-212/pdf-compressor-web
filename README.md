@@ -1,3 +1,5 @@
+## **PDF Compressor Web Application**
+
 A modern, responsive web application for compressing PDF files using multiple compression methods.
 
 ## 🌟 Features
