@@ -1,5 +1,3 @@
-<img width="1918" height="871" alt="image" src="https://github.com/user-attachments/assets/6b655312-aac7-420d-90aa-ee6e0e1a9270" /># PDF Compressor Web Application
-
 A modern, responsive web application for compressing PDF files using multiple compression methods.
 
 ## 🌟 Features
@@ -11,15 +9,15 @@ A modern, responsive web application for compressing PDF files using multiple co
 - **Secure Processing**: Automatic file cleanup and secure handling
 - **Cross-Platform**: Works on Windows, macOS, and Linux
 
-## 📷 Features
+## 📷 Images
 
-- **Main Interface
+- **Main Interface**
 <img width="1918" height="871" alt="image" src="https://github.com/user-attachments/assets/465c4c0a-4f46-48c7-b01e-365398310a5e" />
 
--**File Uploaded
+- **File Uploaded**
 <img width="1919" height="868" alt="image" src="https://github.com/user-attachments/assets/df3ff1ec-c8b6-4598-b521-bcd47803091f" />
 
--**Success
+- **Success**
 <img width="1907" height="860" alt="image" src="https://github.com/user-attachments/assets/31e6850c-534c-4d9b-b7ce-24b24d4bf49a" />
 
 ## 🛠️ Quick Start
