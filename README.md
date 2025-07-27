@@ -11,11 +11,6 @@ A modern, responsive web application for compressing PDF files using multiple co
 - **Secure Processing**: Automatic file cleanup and secure handling
 - **Cross-Platform**: Works on Windows, macOS, and Linux
 
-## 🚀 Live Demo
-
-The application is currently deployed and accessible at:
-**https://5000-i5c2wrf91xoe88dt2egy0-11714968.manusvm.computer**
-
 ## 🛠️ Quick Start
 
 1. **Install dependencies**:
